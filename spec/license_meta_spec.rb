@@ -23,6 +23,7 @@ describe 'license meta' do
 
       it 'using contains 3 examples' do
         legacy = [
+	  'dieu'
           'afl-3.0',
           'artistic-2.0',
           'bsd-3-clause-clear',
